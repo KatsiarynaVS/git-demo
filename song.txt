@@ -1,17 +1,10 @@
 sword and spear
 wall of shields
 standing strong
-<<<<<<< HEAD
 on this their chosen battle field
 
 From the lines
-Shield by shields
+Shield by shield
 Side by Side
 we're marching into destiny
 ----------------------------------
-=======
-on this their vhosen nattle field
-
-From the lines
-Shield by shield
->>>>>>> d9820ee9243b40c5d157bf4c58496b9744355e6b
